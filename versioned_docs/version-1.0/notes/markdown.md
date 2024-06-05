@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 ## Markdown Lang
-- markdown link creation using [link text](link-address)
+- markdown link creation using `[link text](link address)`
     - links can be external urls and internal urls or file paths 
 - font size follows follow # hierarchy
 - ** **bolds text**
