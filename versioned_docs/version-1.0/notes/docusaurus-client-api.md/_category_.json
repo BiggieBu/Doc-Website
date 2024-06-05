@@ -1,0 +1,8 @@
+{
+    "label": "Docusaurus Client API",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "Docusaurus provides some APIs on the clients that can be helpful to you when building your site."
+    }
+}
