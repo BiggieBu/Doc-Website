@@ -43,15 +43,15 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/BiggieBu/Doc-Website',
+          // editUrl:
+          //   'https://github.com/BiggieBu/Doc-Website',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/BiggieBu/Doc-Website',
+          // editUrl:
+          //   'https://github.com/BiggieBu/Doc-Website',
         },
         theme: {
           customCss: './src/css/custom.css',
